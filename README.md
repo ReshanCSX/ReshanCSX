@@ -1,6 +1,6 @@
 # Hello, I'm Reshan 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReshanCSX&show_icons=true&theme=dark&text_color=2ecc71&title_color=3498db)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReshanCSX&show_icons=true&theme=dark&text_color=2ecc71&title_color=16a085)
 
 
 <!---
