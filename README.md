@@ -1,5 +1,6 @@
+# Hello, I'm Reshan 👋
+
 <div align="center">
-    # Hello, I'm Reshan 👋
     <img src="images/header_image.svg" width="30%">
 </div>
 
