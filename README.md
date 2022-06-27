@@ -1,6 +1,7 @@
-# Hello, I'm Reshan 👋
-
-<img src="images/header_image.svg" align="center" width="30%">
+<div align="center">
+    # Hello, I'm Reshan 👋
+    <img src="images/header_image.svg" width="30%">
+</div>
 
 I am a freelance Graphic Designer (brand identity, advertising), a Marketer (Sri Lanka Institute of Marketing), and a person who happened to love solving problems. Currently learning to program, following Harvard's CS50x (remaining the final project) and other online resources. I am mainly interested in front-end development and web applications.
 
