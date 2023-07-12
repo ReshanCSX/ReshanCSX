@@ -1,11 +1,11 @@
 # Hello, I'm Reshan 👋
 
 
-I am a freelance Graphic Designer (brand identity, advertising), a Marketer (Sri Lanka Institute of Marketing), and a person who happened to love solving problems. Currently learning to program, following Harvard's CS50x (remaining the final project) and other online resources. I am mainly interested in front-end development and web applications.
+I am a freelance Graphic Designer specializing in brand identity and advertising, as well as a Marketer certified by the Sri Lanka Institute of Marketing. I have a passion for problem-solving and am currently learning to program through Harvard’s CS50w course (with only the final project remaining) and other online resources. I have also completed CS50x. My main interests are in front-end development and web applications.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ReshanCSX&show_icons=true&theme=dark&text_color=16a085&title_color=2ecc71&border_color=333&bg_color=0D1117" align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshanCSX&text_color=16a085&border_color=333&bg_color=0D1117&title_color=2ecc71">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshanCSX&text_color=16a085&border_color=333&bg_color=0D1117&title_color=2ecc71&layout=compact">
 
 
 
