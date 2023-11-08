@@ -8,7 +8,7 @@ Recently, I've expanded my skills into the realm of programming. I've successful
 
 - **[Harvard’s CS50x](https://cs50.harvard.edu/x/2022/)**: An introduction to computer science and the art of programming.
 - **[Harvard’s CS50w](https://cs50.harvard.edu/web/2020/)**: An exploration into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.
-- [Learn React with Bob Ziroll](https://scrimba.com/learn/learnreact)
+- **[Learn React with Bob Ziroll](https://scrimba.com/learn/learnreact)**: The ultimate React 101
 
 ## 💻 Stack
 
